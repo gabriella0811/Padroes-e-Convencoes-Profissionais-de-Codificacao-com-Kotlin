@@ -1,0 +1,13 @@
+fun main() {
+    
+	var idade: Int = 22
+    
+    idade = 23
+    
+    val name = "Gabriella"
+    
+    
+    println("Eu sou $name e tenho $idade anos !")
+
+
+}
