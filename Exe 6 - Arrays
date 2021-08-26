@@ -1,0 +1,30 @@
+/**
+ * You can edit, run, and share this code. 
+ * play.kotlinlang.org 
+ */
+
+fun main() {
+ 
+    val numeros = arrayListOf<Int>(10, 20)
+    	
+    numeros.add(30)
+        
+    	println("$numeros")
+        
+}  
+
+  /* val listaDeFrutas = mutableListOf ("Banana", "Morango" , "Laranja")
+ 
+ 		listaDeFrutas.add("Ameixa")
+        listaDeFrutas.add(0, "Limão")
+   		listaDeFrutas.removeAt(0)
+
+   val listaDeFrutasDaModa = listOf ("Açaí", "Amora")
+   
+   		listaDeFrutas.addAll(listaDeFrutasDaModa)
+ 
+   	println("${listaDeFrutasDaModa[0]}")
+    
+    
+    
+}*/
